@@ -7,7 +7,7 @@ Auth Required: No
 ## Query Parameters
 
 `userid` - integer - The UID you want get get info about\
-`myid` - integer - Your UID\
+`myid` - integer - Your UID
 
 ---
 
