@@ -6,8 +6,8 @@ Auth Required: No
 
 ## Query Parameters
 
-`universeid` - The universe the invite is for
-`serverid` - The Job ID the invite is for
+`universeid` - string - The universe the invite is for\
+`serverid` - string - The Job ID the invite is for
 
 ---
 
