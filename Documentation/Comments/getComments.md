@@ -7,7 +7,7 @@ Auth Required: No
 ## Query Parameters
 
 `id` - integer - Item ID the comments are for\
-`page` - string - What page of comments you want to fetch
+`page` - integer - What page of comments you want to fetch
 
 ---
 
